@@ -1,2 +1,6 @@
 # playGitDemo
-For testing collaboration on git with my dear friend
+For testing collaboration on git
+
+working on branch subOfGitDemo
+
+Change for Pull Request
