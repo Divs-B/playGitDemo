@@ -6,3 +6,6 @@ function diff(a: number, b: number): number {
     return b - a;
 }
 
+function nearlyFinished(participant: string): string {
+    return `Not long now, ${participant}`;
+}
